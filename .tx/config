@@ -1,0 +1,8 @@
+[main]
+host = https://www.transifex.com
+
+[pwd-wp-login.pwd-wp-login]
+file_filter = languages/pwd-wp-login-<lang>.po
+source_file = languages/pwd-wp-login.pot
+source_lang = en_US
+type = PO
