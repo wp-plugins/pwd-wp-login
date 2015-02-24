@@ -57,6 +57,7 @@ Venez traduire le plugin : (https://www.transifex.com/projects/p/pwd-wp-login/)
 == Screenshots ==
 
 1. Modify your login page
+1. Modifier votre page de connexion
 
 == Changelog ==
 
