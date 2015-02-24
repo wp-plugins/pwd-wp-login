@@ -1,4 +1,4 @@
-=== PWD WP Login ===
+﻿=== PWD WP Login ===
 Contributors: plateforme-wp-digital, nicolaskulka
 Author URI: http://www.plateformewpdigital.fr
 Plugin URL: http://www.plateformewpdigital.fr/plugins
@@ -57,7 +57,7 @@ Venez traduire le plugin : (https://www.transifex.com/projects/p/pwd-wp-login/)
 == Screenshots ==
 
 1. Modify your login page
-1. Modifier votre page de connexion
+2. Modifier votre page de connexion
 
 == Changelog ==
 
